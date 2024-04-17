@@ -16,7 +16,7 @@ button {
   font-size: 18px;
   padding: 16px 24px;
   text-align: center;
-  transition: transform 1s alternate;
+  transition: transform 2s alternate;
 }
 
 button:hover {
